@@ -1,6 +1,6 @@
 // Change these to your usernames 
 var githubUserName = 'caishaoping'
-var linkedinUserName = 'ShaoCai'
+var linkedinUserName = 'shaocai'
 var twitterUserName = 'NA'
 
 //Default readme filename
